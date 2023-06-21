@@ -1,0 +1,12 @@
+modrinth/labrinth:
+  - source: issue_templates/
+    dest: .github/ISSUE_TEMPLATE/
+modrinth/knossos:
+  - source: issue_templates/
+    dest: .github/ISSUE_TEMPLATE/
+modrinth/theseus:
+  - source: issue_templates/
+    dest: .github/ISSUE_TEMPLATE/
+modrinth/minotaur:
+  - source: issue_templates/
+    dest: .github/ISSUE_TEMPLATE/
