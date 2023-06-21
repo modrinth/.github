@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - issue-template-sync
   workflow_dispatch:
 jobs:
   sync:
