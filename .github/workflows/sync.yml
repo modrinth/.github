@@ -5,6 +5,7 @@ on:
       - main
       - issue-template-sync
   workflow_dispatch:
+
 jobs:
   sync:
     runs-on: ubuntu-latest
