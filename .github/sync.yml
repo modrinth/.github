@@ -10,3 +10,9 @@ modrinth/theseus:
 modrinth/minotaur:
   - source: issue_templates/
     dest: .github/ISSUE_TEMPLATE/
+modrinth/docs:
+  - source: issue_templates/
+    dest: .github/ISSUE_TEMPLATE/
+modrinth/omorphia:
+  - source: issue_templates/
+    dest: .github/ISSUE_TEMPLATE/
